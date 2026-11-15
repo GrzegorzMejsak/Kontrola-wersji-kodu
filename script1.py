@@ -1,0 +1,5 @@
+a=int(input("Podaj pierwszą liczbę"))
+b=int(input("Podaj drugą liczbę"))
+wynik=int(str(a) + str(b))
+print(wynik)
+print(a+b)
